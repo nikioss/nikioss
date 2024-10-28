@@ -5,10 +5,10 @@
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- 📝 
+- 📄 Know about my experiences 
+- 📫 Reach me by [email](mailto:email-address)
+- 🌍 I speak English, and learn French
 
 ---
 
