@@ -11,6 +11,9 @@
 
 ---
 
+### 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-профиль-blue?logo=telegram)](https://t.me/Chickitoss)
+
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
@@ -26,4 +29,3 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikioss&theme=github_dark" alt=""/>
 </div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-профиль-blue?logo=telegram)](https://t.me/Chickitoss)
