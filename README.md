@@ -25,3 +25,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikioss&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikioss&theme=github_dark" alt=""/>
 </div>
+
+[![Telegram](https://img.shields.io/badge/Telegram-профиль-blue?logo=telegram)](https://t.me/Chickitoss)
