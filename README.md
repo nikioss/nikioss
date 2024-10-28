@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+do+ML+and+Data+Science;I+am+studying+nuclear+power+plants+and+engineering)](https://git.io/typing-svg)
 
+---
+
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
 - 📚 Communicative 
@@ -16,9 +18,11 @@
 - **[Проект 1](https://github.com/nikioss/Movie_review)** — Краткое описание проекта.
 - **[Проект 2](ссылка-на-проект)** — Краткое описание проекта.
 
+---
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-профиль-blue?logo=telegram)](https://t.me/Chickitoss)
 
+---
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
