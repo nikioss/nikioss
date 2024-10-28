@@ -2,7 +2,7 @@
     <h1>Hi, I'm  Nikita </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+studying+ML+and+Data+Science;Учусь+и+развиваюсь+каждый+день)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+studying+ML+and+Data+Science;I+am+studying+nuclear+power+plants+and+engineering)](https://git.io/typing-svg)
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
