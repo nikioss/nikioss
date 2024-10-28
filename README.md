@@ -2,8 +2,7 @@
     <h1>Hi, I'm  Nikita </h1>
 </div>
 
-### Немного обо мне
-![Working](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет!+Я+Data+Scientist;Учусь+и+развиваюсь+каждый+день)](https://git.io/typing-svg)
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
