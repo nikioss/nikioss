@@ -5,9 +5,8 @@
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
-- 📝 
-- 📄 Know about my experiences 
-- 📫 Reach me by [email](mailto:email-address)
+- 📚 I am studying nuclear power plants and engineering
+- 📄 I am interested in studying the implementation of AI in the nuclear industry
 - 🌍 I speak English, and learn French
 
 ---
