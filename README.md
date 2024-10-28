@@ -2,15 +2,15 @@
     <h1>Hi, I'm  Nikita </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+do+ML+and+Data+Science;I+am+studying+nuclear+power+plants+and+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+do+ML+and+Data+Science;Love+building+models)](https://git.io/typing-svg)
 
 ---
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
-- 📚 Communicative 
-- 📄 I;m interested in studying the implementation of AI in the nuclear industry
-- 🌍 speak English, and learn French
+- 📚 I'm studying nuclear power plants and engineering
+- 📄 I'm interested in studying the implementation of AI in the nuclear industry
+- 🌍 I speak English, and learn French
 
 ---
 
