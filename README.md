@@ -2,6 +2,8 @@
     <h1>Hi, I'm  Nikita </h1>
 </div>
 
+### Немного обо мне
+![Working](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
