@@ -6,9 +6,9 @@
 
 ### About me
 - 🌱 I’m currently learning **ML, Data Science**
-- 📚 I am studying nuclear power plants and engineering
-- 📄 I am interested in studying the implementation of AI in the nuclear industry
-- 🌍 I speak English, and learn French
+- 📚 Communicative 
+- 📄 I;m interested in studying the implementation of AI in the nuclear industry
+- 🌍 speak English, and learn French
 
 ---
 
