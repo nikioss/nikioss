@@ -21,6 +21,7 @@
 - 👨**[Project 4](https://github.com/nikioss/Determining-the-age-of-buyers)** — A model that uses a photo to determine the approximate age of a person using neural networks
 - 🚗**[Project 5](https://github.com/nikioss/Forecasting-taxi-orders)** — A model for time series
 - 📊**[Project 6](https://github.com/nikioss/Buisiness)** — A model for choosing a well development site
+- 👨‍💻**[Project 7](https://github.com/nikioss/HR-analysis)** — Two models predicting employee job satisfaction and employee churn
 
 
 
