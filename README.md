@@ -15,9 +15,9 @@
 ---
 
 ## 🚀 Projects
-- 📝**[Project 1](https://github.com/nikioss/Movie_review)** — Cистема для автоматической классификации отзывов о фильмах(положительный или негативный) с присвоением рейтинга от 1 до 10
-- 🌐**[Project 2](ссылка-на-проект)** — Краткое описание проекта.
-- 🛒**[Project 3](https://github.com/nikioss/Hackathon_DODO)** — Модель, которая предсказывает вероятность применения промокода для каждого клиента.
+- 📝**[Project 1](https://github.com/nikioss/Movie_review)** — A system for automatically classifying movie reviews (positive or negative) with a rating from 1 to 10
+- 🌐**[Project 2](https://github.com/nikioss/Telecommunications)** — A model predicting customer churn
+- 🛒**[Project 3](https://github.com/nikioss/Hackathon_DODO)** — A model that predicts the probability of using a promo code for each customer
 
 ---
 ### 📫 Contact
