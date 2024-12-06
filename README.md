@@ -16,13 +16,12 @@
 
 ## 🚀 Projects
 - 📝**[Project 1](https://github.com/nikioss/Movie_review)** — A system for automatically classifying movie reviews (positive or negative) with a rating from 1 to 10
-- ![image](https://github.com/user-attachments/assets/66a1788f-733b-4131-a5c7-611fd47e9dc6)
-
-- 🌐**[Project 2](https://github.com/nikioss/Telecommunications)** — A model predicting customer churn
-- 🛒**[Project 3](https://github.com/nikioss/Hackathon_DODO)** — A model that predicts the probability of using a promo code for each customer
-- 👨**[Project 4](https://github.com/nikioss/Determining-the-age-of-buyers)** — A model that uses a photo to determine the approximate age of a person using neural networks
-- 🚗**[Project 5](https://github.com/nikioss/Forecasting-taxi-orders)** — A model for time series, to predict the taxi load
-- 📊**[Project 6](https://github.com/nikioss/Buisiness)** — A model for choosing a well development site
+- ♻️**[Project 2](https://github.com/nikioss/Sorting-garbage)** — Detection of plastic bottles and other objects on the conveyor belt
+- 🌐**[Project 3](https://github.com/nikioss/Telecommunications)** — A model predicting customer churn
+- 🛒**[Project 4](https://github.com/nikioss/Hackathon_DODO)** — A model that predicts the probability of using a promo code for each customer
+- 👨**[Project 5](https://github.com/nikioss/Determining-the-age-of-buyers)** — A model that uses a photo to determine the approximate age of a person using neural networks
+- 🚗**[Project 6](https://github.com/nikioss/Forecasting-taxi-orders)** — A model for time series, to predict the taxi load
+- 📊**[Project 7](https://github.com/nikioss/Buisiness)** — A model for choosing a well development site
 
 
 
