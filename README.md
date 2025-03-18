@@ -2,7 +2,7 @@
     <h1>Hi, I'm  Nikita </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+studying+ML+and+Data+Science;Love+building+different+models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I've+been+studying+ML+for+2+years+now;Love+building+different+models)](https://git.io/typing-svg)
 
 ---
 
@@ -14,7 +14,44 @@
 
 ---
 
-## 🚀 Projects
+### 🤖 Classic Machine Learning (ML)
+
+- [Games](https://github.com/your_username/Games)  
+  Identifying patterns of successful games
+
+- [HR-analysis](https://github.com/your_username/HR-analysis)  
+  HR data analysis
+
+- [Buisiness](https://github.com/your_username/Buisiness)  
+  Optimal well location selection
+
+- [Forecasting-taxi-orders](https://github.com/your_username/Forecasting-taxi-orders)  
+  Taxi order forecasting (time series analysis)
+
+- [Telecommunications](https://github.com/your_username/Telecommunications)  
+  Customer churn prediction
+
+- [Hackathon_DODO](https://github.com/your_username/Hackathon_DODO)  
+  Predicting the use of a promo code by a user
+
+### 💬 Natural Language Processing (NLP)
+
+- [Samokat_NLP](https://github.com/your_username/Samokat_NLP)  
+  Topic classification of user reviews
+
+- [Movie_review](https://github.com/your_username/Movie_review)  
+  Movie review analysis (Case Lab ML internship test task)
+
+### 👁️ Computer Vision (CV)
+
+- [Sorting-garbage](https://github.com/your_username/Sorting-garbage)  
+  Object detection (plastic bottles) on conveyor belts
+
+- [Determining-the-age-of-buyers](https://github.com/your_username/Determining-the-age-of-buyers)  
+  Buyers' age estimation
+  
+---
+## 🚀 Best projects
 - 📝**[Project 1](https://github.com/nikioss/Movie_review)** — A system for automatically classifying movie reviews (positive or negative) with a rating from 1 to 10
 - ♻️**[Project 2](https://github.com/nikioss/Sorting-garbage)** — Detection of plastic bottles and other objects on the conveyor belt
 - 📊**[Project 3](https://github.com/nikioss/Samokat_NLP)** — Multiclass classification of reviews
@@ -22,8 +59,6 @@
 - 🛒**[Project 5](https://github.com/nikioss/Hackathon_DODO)** — A model that predicts the probability of using a promo code for each customer
 - 👨**[Project 6](https://github.com/nikioss/Determining-the-age-of-buyers)** — A model that uses a photo to determine the approximate age of a person using neural networks
 - 🚗**[Project 7](https://github.com/nikioss/Forecasting-taxi-orders)** — A model for time series, to predict the taxi load
-
-
 
 
 ---
