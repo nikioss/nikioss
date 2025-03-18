@@ -13,6 +13,7 @@
 - 🌍 I speak English, and learn French
 
 ---
+My projects are grouped by domain: Classic Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision (CV).
 
 ### 🤖 Classic Machine Learning (ML)
 
