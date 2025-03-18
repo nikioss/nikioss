@@ -15,7 +15,7 @@
 ---
 My projects are grouped by domain: Classic Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision (CV).
 
-### 🤖 Classic Machine Learning (ML)
+### 🤖 Classic Machine Learning
 
 - [Games](https://github.com/your_username/Games)  
   Identifying patterns of successful games
@@ -35,7 +35,7 @@ My projects are grouped by domain: Classic Machine Learning (ML), Natural Langua
 - [Hackathon_DODO](https://github.com/your_username/Hackathon_DODO)  
   Predicting the use of a promo code by a user
 
-### 💬 Natural Language Processing (NLP)
+### 💬 Natural Language Processing
 
 - [Samokat_NLP](https://github.com/your_username/Samokat_NLP)  
   Topic classification of user reviews
@@ -43,7 +43,7 @@ My projects are grouped by domain: Classic Machine Learning (ML), Natural Langua
 - [Movie_review](https://github.com/your_username/Movie_review)  
   Movie review analysis (Case Lab ML internship test task)
 
-### 👁️ Computer Vision (CV)
+### 👁️ Computer Vision
 
 - [Sorting-garbage](https://github.com/your_username/Sorting-garbage)  
   Object detection (plastic bottles) on conveyor belts
