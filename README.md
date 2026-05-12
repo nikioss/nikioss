@@ -7,7 +7,8 @@
 ---
 
 ### About me
-- 🌱 I’m currently learning **ML, Data Science**
+- I work as a specialist in automation of technical processes
+- 🌱 Learning **ML, Data Science**
 - 📚 I'm studying nuclear power plants and engineering
 - 📄 I'm interested in studying the implementation of AI in the nuclear industry
 - 🌍 I speak English, and learn French
