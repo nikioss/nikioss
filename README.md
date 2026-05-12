@@ -2,7 +2,7 @@
     <h1>Hi, I'm  Nikita </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+exploring+new+directions+in+ML+_+_;Every+day+is+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Exploring+new+directions+in+ML+_+_;Every+day+is+something+new)](https://git.io/typing-svg)
 
 ---
 
